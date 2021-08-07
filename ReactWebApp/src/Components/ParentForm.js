@@ -2,7 +2,7 @@ import React from 'react';
 import Button from '@material-ui/core/Button';
 import InputEmailField from './InputEmailField';
 
-export default class OfferSupportForm extends React.Component {
+export default class ParentForm extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
